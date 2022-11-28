@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;700;800&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --pj-bold-58px: "Plus Jakarta Sans";
+  --inter-regular-16px: Inter;
+
+  /* font sizes */
+  --font-size-sm: 12px;
+  --inter-regular-16px-size: 16px;
+  --inter-regular-18px-size: 18px;
+  --pj-bold-58px-size: 58px;
+
+  /* Colors */
+  --color-white: #fff;
+  --gray-900: #18181b;
+  --color-brown: #f43f5e;
+  --color-violet-100: #3b82f6;
+
+  /* border radiuses */
+  --br-md: 3px;
+
+  /* Effects */
+  --shadow-1: 0px 4px 4px rgba(35, 40, 105, 0.08);
+}

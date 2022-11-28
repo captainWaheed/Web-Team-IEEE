@@ -1,0 +1,522 @@
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.bGDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #fafafa;
+  width: 1600px;
+  height: 976px;
+}
+.groupIcon {
+  position: absolute;
+  height: 149.34%;
+  width: 187.1%;
+  top: 34.71%;
+  right: -100.01%;
+  bottom: -84.05%;
+  left: 12.91%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.consecteturAdipiscingElitV {
+  position: absolute;
+  top: 80px;
+  left: 0;
+  line-height: 26px;
+  font-family: var(--inter-regular-16px);
+  color: var(--gray-700);
+  display: inline-block;
+  width: 403px;
+}
+.bestCodeEditorInMarket,
+.dennyJonesB {
+  position: absolute;
+  top: 170px;
+  left: 38px;
+  line-height: 28px;
+  display: inline-block;
+}
+.bestCodeEditorInMarket {
+  top: 40px;
+  left: 0;
+  font-size: var(--inter-regular-18px-size);
+  width: 403px;
+}
+.ellipseIcon,
+.starIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 109px;
+  height: 16.26px;
+}
+.ellipseIcon {
+  top: 173px;
+  left: 3px;
+  width: 26px;
+  height: 26px;
+  object-fit: cover;
+}
+.reviewDiv {
+  position: absolute;
+  top: 456px;
+  left: 0;
+  width: 403px;
+  height: 199px;
+}
+.anEditorThatHelpsYouWrite {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 66px;
+  font-weight: 800;
+  display: inline-block;
+  width: 504px;
+}
+.loremIpsumDolorSitAmetCo {
+  position: absolute;
+  top: 224px;
+  left: 3px;
+  font-size: var(--inter-regular-18px-size);
+  line-height: 28px;
+  font-family: var(--inter-regular-16px);
+  color: var(--gray-600);
+  display: inline-block;
+  width: 533px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  background-color: var(--gray-900);
+  width: 214px;
+  height: 61px;
+}
+.tryOurFreeEditor {
+  position: absolute;
+  top: 16px;
+  left: 29px;
+  font-size: var(--inter-regular-18px-size);
+  line-height: 28px;
+  display: inline-block;
+  font-family: var(--pj-bold-58px);
+  color: var(--color-white);
+  text-align: center;
+}
+.groupButton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 325px;
+  left: 0;
+  width: 214px;
+  height: 61px;
+}
+.contentDiv,
+.contentLeftDiv {
+  position: absolute;
+  width: 536px;
+}
+.contentDiv {
+  top: 0;
+  left: 0;
+  height: 386px;
+  font-size: var(--pj-bold-58px-size);
+}
+.contentLeftDiv {
+  top: 171px;
+  left: 152px;
+  height: 655px;
+}
+.bGDiv1,
+.bGDiv2,
+.bGDiv3 {
+  position: absolute;
+  top: 0;
+  left: -4px;
+  background-color: #f44;
+  width: 71px;
+  height: 383px;
+}
+.bGDiv2,
+.bGDiv3 {
+  left: 67px;
+  background-color: #ad44ff;
+}
+.bGDiv3 {
+  left: 138px;
+  background-color: #448fff;
+}
+.bGDiv4 {
+  top: 0;
+  left: 209px;
+  background-color: #44d2ff;
+  width: 71px;
+}
+.bGDiv4,
+.bGDiv5,
+.shadowDiv {
+  position: absolute;
+  height: 383px;
+}
+.bGDiv5 {
+  top: 0;
+  left: 265px;
+  background-color: #8bff44;
+  width: 71px;
+}
+.shadowDiv {
+  top: 36px;
+  left: 35px;
+  filter: blur(114px);
+  width: 323px;
+}
+.bGDiv6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: var(--color-white);
+  box-shadow: var(--shadow-1);
+  width: 401px;
+  height: 439px;
+}
+.span {
+  color: var(--gray-900);
+}
+.h1Span {
+  color: var(--color-brown);
+}
+.h1ClassicMoviesh1P {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.rwdTableSpan {
+  color: var(--color-violet-100);
+}
+.tdDataThGenreAdventure {
+  margin: 0;
+}
+.div,
+.h1ClassicMoviesh1Table {
+  position: absolute;
+  top: 36px;
+  line-height: 30px;
+  display: inline-block;
+}
+.h1ClassicMoviesh1Table {
+  left: 61px;
+  white-space: pre-wrap;
+  width: 306px;
+  opacity: 0.9;
+}
+.div {
+  left: 17px;
+  color: rgba(0, 0, 0, 0.16);
+}
+.bGIcon,
+.codeDiv,
+.ellipseIcon1,
+.ellipseIcon2,
+.ellipseIcon3 {
+  position: absolute;
+  top: 11px;
+  left: 17px;
+  width: 10px;
+  height: 10px;
+}
+.bGIcon,
+.codeDiv,
+.ellipseIcon2,
+.ellipseIcon3 {
+  left: 34px;
+}
+.bGIcon,
+.codeDiv,
+.ellipseIcon3 {
+  left: 51px;
+}
+.bGIcon,
+.codeDiv {
+  top: 0;
+  left: 0;
+  width: 401px;
+  height: 439px;
+}
+.bGIcon {
+  width: 361px;
+  height: 280px;
+}
+.genreDiv,
+.movieTitleDiv {
+  top: 0;
+  letter-spacing: 1px;
+  line-height: 32px;
+  text-transform: uppercase;
+  font-weight: 600;
+  display: inline-block;
+}
+.movieTitleDiv {
+  position: absolute;
+  left: 0;
+}
+.genreDiv {
+  left: 164px;
+}
+.div1,
+.genreDiv,
+.yearDiv {
+  position: absolute;
+}
+.yearDiv {
+  top: 0;
+  left: 269px;
+  letter-spacing: 1px;
+  line-height: 32px;
+  text-transform: uppercase;
+  font-weight: 600;
+  display: inline-block;
+}
+.div1 {
+  top: 14px;
+  left: 25px;
+  width: 305px;
+  height: 32px;
+  font-size: var(--font-size-sm);
+}
+.adventureDiv,
+.starWarsDiv {
+  position: absolute;
+  top: 0;
+  line-height: 32px;
+  display: inline-block;
+}
+.starWarsDiv {
+  left: 0;
+  width: 94px;
+  height: 32px;
+}
+.adventureDiv {
+  left: 164px;
+}
+.div2,
+.div3 {
+  position: absolute;
+  height: 32px;
+}
+.div3 {
+  top: 0;
+  left: 269px;
+  line-height: 32px;
+  display: inline-block;
+  width: 38px;
+}
+.div2 {
+  top: 68px;
+  left: 25px;
+  width: 307px;
+}
+.howardTheDuck {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 32px;
+  display: inline-block;
+}
+.div10,
+.div12,
+.div4,
+.div6,
+.div8,
+.lineDiv {
+  position: absolute;
+  top: 101px;
+  left: 25px;
+  width: 307px;
+  height: 32px;
+}
+.div10,
+.div12,
+.div6,
+.div8,
+.lineDiv {
+  top: 134px;
+}
+.div10,
+.div12,
+.div8,
+.lineDiv {
+  top: 167px;
+}
+.div10,
+.div12,
+.lineDiv {
+  top: 200px;
+}
+.div12,
+.lineDiv {
+  top: 233px;
+}
+.lineDiv {
+  top: 54.5px;
+  left: 24.5px;
+  border-top: 1px dashed var(--color-white);
+  box-sizing: border-box;
+  width: 306px;
+  height: 1px;
+  opacity: 0.4;
+}
+.resultDiv {
+  position: absolute;
+  top: 293px;
+  left: 103px;
+  width: 361px;
+  height: 280px;
+  color: var(--color-white);
+}
+.arrowIcon {
+  position: absolute;
+  top: 149.49px;
+  left: 421.51px;
+  width: 88.78px;
+  height: 187.01px;
+}
+.rightIllustrationDiv {
+  position: absolute;
+  top: 202px;
+  left: 863px;
+  width: 504.18px;
+  height: 573px;
+  font-family: var(--inter-regular-16px);
+}
+.logoDiv,
+.rareblocks {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.rareblocks {
+  font-size: var(--inter-regular-16px-size);
+  letter-spacing: 3px;
+  line-height: 30px;
+  text-transform: uppercase;
+  display: inline-block;
+  font-family: var(--pj-bold-58px);
+  text-align: left;
+}
+.logoDiv {
+  width: 148px;
+  height: 30px;
+}
+.featuresDiv,
+.pricingDiv,
+.supportDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--inter-regular-16px-size);
+  line-height: 24px;
+  font-weight: 500;
+  font-family: var(--pj-bold-58px);
+  color: var(--gray-900);
+  text-align: left;
+  display: inline-block;
+}
+.pricingDiv,
+.supportDiv {
+  left: 127px;
+}
+.supportDiv {
+  left: 240px;
+}
+.menuDiv {
+  position: absolute;
+  top: 5px;
+  left: 617px;
+  width: 304px;
+  height: 24px;
+}
+.buttonName {
+  position: relative;
+  font-size: var(--inter-regular-16px-size);
+  line-height: 28px;
+  display: inline-block;
+  font-family: var(--pj-bold-58px);
+  color: var(--color-white);
+  text-align: right;
+}
+.iconOutlinearrowRight {
+  position: relative;
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.iconDiv {
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.buttonPrimaryWithIconDiv,
+.frameDiv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frameDiv {
+  flex-direction: row;
+  gap: 9px;
+}
+.buttonPrimaryWithIconDiv {
+  position: absolute;
+  top: 0;
+  left: 1409px;
+  border-radius: var(--br-md);
+  background-color: var(--base-black);
+  width: 135px;
+  height: 45px;
+  flex-direction: column;
+  padding: 16px;
+  box-sizing: border-box;
+}
+.headerNav {
+  position: absolute;
+  top: 24px;
+  left: 32px;
+  width: 1544px;
+  height: 45px;
+  opacity: 0;
+}
+.headerNav.animate {
+  animation: 1s ease 0s 1 normal forwards fade-in;
+}
+.vectorIcon {
+  position: absolute;
+  top: 337.5px;
+  left: 782.5px;
+  width: 41px;
+  height: 30.04px;
+}
+.hero1Div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 976px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--inter-regular-16px-size);
+  color: var(--gray-900);
+  font-family: var(--pj-bold-58px);
+}
