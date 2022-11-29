@@ -40,8 +40,8 @@ const Hero1 = () => {
         <div className={styles.reviewDiv}>
           <div className={styles.consecteturAdipiscingElitV}>
             Here we learn, share our experiences and grow together in a fun way.
-            becuase this team just like the society : For the students - By the
-            students
+            because this team is just like IEEE society: For the students - By
+            the students
           </div>
           <b className={styles.dennyJonesB}>Abdul Waheed</b>
           <b className={styles.bestCodeEditorInMarket}>
