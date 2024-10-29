@@ -223,7 +223,7 @@ const Hero1 = () => {
         <div className={styles.menuDiv}>
           <div className={styles.featuresDiv}>Interactive</div>
           <div className={styles.pricingDiv}>Supportive</div>
-          <div className={styles.supportDiv}>Beginner Friendly</div>
+          <div className={styles.supportDiv}>James Bond 007</div>
         </div>
         <div className={styles.buttonPrimaryWithIconDiv}>
           <div className={styles.frameDiv}>
